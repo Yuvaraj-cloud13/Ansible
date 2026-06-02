@@ -1,5 +1,5 @@
 - name: demo on play level variables
-  hosts: localhost
+  hosts: local
   connection: local
   vars:
     COURSE: "Ansible"
