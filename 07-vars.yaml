@@ -13,6 +13,6 @@
   tasks:
   - name: print information
     debug:
-      msg: "Username is {{username}}, Password is {{ password }}"
+      msg: "Username is {{ username }}, Password is {{ password }}"
 
     
